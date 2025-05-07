@@ -12,11 +12,19 @@ dist
 dist-ssr
 *.local
 
+# Avoid accidental upload of the Sketch and Figma design files
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+*.xd
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
+.prettierignore
 *.suo
 *.ntvs*
 *.njsproj
