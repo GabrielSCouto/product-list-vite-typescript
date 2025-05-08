@@ -71,6 +71,6 @@ Este projeto é ótimo para aprendizado. Fique à vontade para contribuir, clona
 
 ---
 
-### 👨‍💻 Autor
+### 👨‍💻 Autores
 
 Desenvolvido por Gabriel Couto & Gabriel Bagetti, baseado no desafio [Frontend Mentor - Product List with Cart](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d).
