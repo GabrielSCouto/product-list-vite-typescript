@@ -4,7 +4,7 @@
 
 Esse é um desafio de front-end do [Frontend Mentor](https://www.frontendmentor.io).
 
-Esta solução foi construída usando apenas **HTML**, **CSS**, TypeScript e **Vite**, respeitando o design original e entregando funcionalidades completas de carrinho com layout responsivo.
+Esta solução foi construída usando apenas **HTML**, **CSS**, **TypeScript** e **Vite**, respeitando o design original e entregando funcionalidades completas de carrinho com layout responsivo.
 
 ## 🔧 Funcionalidades Desenvolvidas
 
@@ -29,7 +29,7 @@ Esta solução foi construída usando apenas **HTML**, **CSS**, TypeScript e **V
 
 ## 🧑‍🍳 Produtos
 
-Os produtos são carregados dinamicamente através de um array JavaScript dentro do data.json. Exemplo:
+Os produtos são carregados dinamicamente através de um array JavaScript dentro do **data.json**. Exemplo:
 
 ```json
 {
